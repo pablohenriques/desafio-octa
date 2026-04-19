@@ -17,8 +17,8 @@
 | # | Exercício | Status | Conceitos Verificados | Aprovado pelo Tutor |
 |---|-----------|--------|----------------------|---------------------|
 | 1 | Ano Bissexto | ✔️ Aprovado pelo tutor | Módulo `%`, condicionais aninhados, ordem de avaliação, truthiness em Python | ✔️ |
-| 2 | Maior entre Três Números | ✅ Resolvido | — | Pendente verificação |
-| 3 | Sequência de Fibonacci | ⬜ Bloqueado | — | — |
+| 2 | Maior entre Três Números | ✔️ Aprovado pelo tutor | Operadores de comparação, estrutura condicional aninhada, generalização com `*args`, type hints e validação de entrada, complexidade O(n) | ✔️ |
+| 3 | Sequência de Fibonacci | 🔄 Em andamento | — | — |
 | 4 | Vetores: Busca, Inserção e Remoção | ⬜ Bloqueado | — | — |
 | 5 | Número de Armstrong | ⬜ Bloqueado | — | — |
 
