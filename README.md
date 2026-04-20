@@ -19,7 +19,7 @@
 | 1 | Ano Bissexto | ✔️ Aprovado pelo tutor | Módulo `%`, condicionais aninhados, ordem de avaliação, truthiness em Python | ✔️ |
 | 2 | Maior entre Três Números | ✔️ Aprovado pelo tutor | Operadores de comparação, estrutura condicional aninhada, generalização com `*args`, type hints e validação de entrada, complexidade O(n) | ✔️ |
 | 3 | Sequência de Fibonacci | ✔️ Aprovado pelo tutor | Laço iterativo O(n), atribuição simultânea, shadowing de built-ins, recursão ingênua O(2ⁿ) | ✔️ |
-| 4 | Vetores: Busca, Inserção e Remoção | 🔄 Em andamento | — | — |
+| 4 | Vetores: Busca, Inserção e Remoção | ✔️ Aprovado pelo tutor | Listas e indexação, laço com `range`, inserção com deslocamento (`list.insert`), remoção por índice (`del`), retorno de código de erro vs exceção, busca linear O(n) vs binária O(log n) | ✔️ |
 | 5 | Número de Armstrong | ⬜ Bloqueado | — | — |
 
 > **Legenda**: ⬜ Não iniciado · 🔄 Em andamento · ✅ Resolvido · ✔️ Aprovado pelo tutor · 🔒 Bloqueado
